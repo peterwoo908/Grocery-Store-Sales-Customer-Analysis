@@ -4,4 +4,6 @@
 
 <br><br>
 
-This project will consist of Exploratory Data Analysis, Inferential Analysis, Customer Segmentation, and lastly Predictive Analysis.</div>
+This project consists of Exploratory Data Analysis, Inferential Analysis, Customer Segmentation, and lastly Predictive Analysis.</div>
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset/data)
